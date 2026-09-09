@@ -1,78 +1,227 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6B1E2C&section=header&text=YOUR%20NAME&fontSize=38&fontColor=EFE6D8&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20maker%20of%20calm%2C%20crafted%20things&descSize=16&descAlignY=72&descAlignX=50" width="100%" alt="banner"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5A0F1B,35:8B1E2D,70:3B1F1A,100:5A0F1B&text=Hey%20there,%20I'm%20eshaal%20%E2%9C%A8&fontColor=F4E4C1&fontSize=44&fontAlignY=38&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Future%20Software%20Architect&descAlignY=58&descColor=F4E4C1&descSize=17&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=D61F3C&center=true&vCenter=true&width=850&lines=Learning+Python+%E2%80%A2+Java+%E2%80%A2+JavaScript;Exploring+STEM+%26+Software+Architecture;Building+ideas+into+real+experiences;Always+learning.+Always+building.+Always+curious." />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/Ruby4578?label=Followers&style=for-the-badge&color=5A0F1B&labelColor=3B1F1A" />
+<img src="https://img.shields.io/github/stars/Ruby4578?label=Stars&style=for-the-badge&color=D61F3C&labelColor=3B1F1A" />
+<img src="https://komarev.com/ghpvc/?username=Ruby4578&style=for-the-badge&color=8B1E2D&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I'm **eshaal**, a university student and aspiring software architect who enjoys exploring the intersection between **software, technology and STEM**.
+
+I'm currently learning and building with **Python, Java and JavaScript**, while expanding my understanding of how software systems are designed, structured and brought to life.
+
+I'm especially interested in:
+
+* 🧩 Software architecture & system design
+* 🧠 Computer science & STEM
+* 💻 Software development
+* 🌐 Web technologies
+* 🚀 Building practical projects
+* 📚 Continuously learning new technologies
+
+My current goal is simple:
+
+> **Finish university strongly, keep building meaningful projects, and find opportunities where I can grow as a software engineer.**
+
+I enjoy understanding how things work — from tiny implementation details to entire systems.
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github.com/Ruby4578.png" width="220" style="border-radius:50%;" />
+
+<br/><br/>
+
+**Student • Developer • Builder**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages & Technologies
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&pause=1200&color=7D2A35&center=true&vCenter=true&width=640&lines=Building+software+that+feels+like+a+well-made+book;TypeScript+%C2%B7+React+%C2%B7+design+systems;Detail-obsessive%2C+deadline-friendly" alt="typing tagline"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark&perline=5" />
 
 <br/>
 
-I build calm, elegant software — clean code, accessible interfaces,<br/>
-and products people actually enjoy coming back to.<br/>
-📍 YOUR_CITY · ✉️ you@email.com · 🟢 Open to new opportunities
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=5" />
+
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Velvet%20Crimson-6B1E2C?style=flat-square&labelColor=6B1E2C&color=6B1E2C"/>
-<img src="https://img.shields.io/badge/Champagne%20Silk-EFE6D8?style=flat-square&labelColor=EFE6D8&color=EFE6D8"/>
-<img src="https://img.shields.io/badge/Espresso%20Brown-3B2A21?style=flat-square&labelColor=3B2A21&color=3B2A21"/>
-<img src="https://img.shields.io/badge/Romance%20Red-7D2A35?style=flat-square&labelColor=7D2A35&color=7D2A35"/>
+---
+
+## 🎯 Areas I'm Exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
+
+<br/><br/>
+
+**Software Development**   •  
+**STEM**   •  
+**System Design**   •  
+**Software Architecture**
 
 </div>
 
 ---
 
-### ✦ The craft
+## 🚀 Projects
 
-- **Front-end:** TypeScript, React, Next.js, accessibility-first UI
-- **Back-end:** Node.js, PostgreSQL, REST & GraphQL
-- **Design:** design systems, typography, motion that serves the user
-- **Ways of working:** readable PRs, honest estimates, kind code review
+### 🛒 Kiswah — Fresh Groceries
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-6B1E2C?style=for-the-badge&logo=typescript&logoColor=EFE6D8"/>
-  <img src="https://img.shields.io/badge/React-7D2A35?style=for-the-badge&logo=react&logoColor=EFE6D8"/>
-  <img src="https://img.shields.io/badge/Next.js-3B2A21?style=for-the-badge&logo=nextdotjs&logoColor=EFE6D8"/>
-  <img src="https://img.shields.io/badge/Node.js-6B1E2C?style=for-the-badge&logo=nodedotjs&logoColor=EFE6D8"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-3B2A21?style=for-the-badge&logo=postgresql&logoColor=EFE6D8"/>
-  <img src="https://img.shields.io/badge/Tailwind-7D2A35?style=for-the-badge&logo=tailwindcss&logoColor=EFE6D8"/>
-  <img src="https://img.shields.io/badge/Docker-6B1E2C?style=for-the-badge&logo=docker&logoColor=EFE6D8"/>
-  <img src="https://img.shields.io/badge/Git-3B2A21?style=for-the-badge&logo=git&logoColor=EFE6D8"/>
-</p>
+A fresh grocery delivery website focused on providing a simple and convenient online shopping experience.
+
+**Highlights**
+
+* 🥬 Fresh grocery catalogue
+* 🛍️ Online shopping experience
+* 📱 Responsive web interface
+* ✨ Clean and user-friendly design
+
+<div align="center">
+
+<a href="https://kiswah.altervista.org/">
+
+<img src="https://img.shields.io/badge/🌐%20Visit%20Kiswah-5A0F1B?style=for-the-badge&logoColor=F4E4C1" />
+
+</a>
+
+</div>
+
+---
+
+### 🎮 Labirinto a Mano
+
+An interactive hand-controlled maze game where players navigate through levels using hand gestures instead of a traditional controller.
+
+**Highlights**
+
+* ✋ Hand gesture detection
+* 🎯 10 levels
+* 💎 Collection game mode
+* 🧩 Classic maze mode
+* 📷 Camera-based interaction
+* ⌨️ Keyboard controls available
+* 👆 Index finger controls movement
+* 👌 Gesture-based progression
+
+<div align="center">
+
+<a href="https://handmaze.altervista.org/">
+
+<img src="https://img.shields.io/badge/🎮%20Play%20Labirinto%20a%20Mano-D61F3C?style=for-the-badge&logoColor=F4E4C1" />
+
+</a>
+
+</div>
 
 ---
 
-### ✦ Selected work
+# 📊 Some Stats
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Project One](https://github.com/YOUR_USERNAME/project-one)** | One line: the problem it solves and who it's for | React · Node |
-| **[Project Two](https://github.com/YOUR_USERNAME/project-two)** | One line: your cleverest technical decision | Next.js · Postgres |
-| **[Project Three](https://github.com/YOUR_USERNAME/project-three)** | One line: what you'd demo in an interview | TS · GraphQL |
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruby4578&theme=transparent" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ruby4578&theme=transparent" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ruby4578&theme=transparent" />
+
+</div>
 
 ---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ruby4578&theme=transparent&hide_border=true&ring=D61F3C&fire=D61F3C&currStreakLabel=5A0F1B&sideLabels=5A0F1B&dates=3B1F1A" width="75%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruby4578&bg_color=00000000&color=5A0F1B&line=D61F3C&point=8B1E2D&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=3B2A21&title_color=EFE6D8&text_color=EFE6D8&icon_color=7D2A35"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=EFE6D8&title_color=6B1E2C&text_color=3B2A21&icon_color=7D2A35" alt="GitHub stats"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=3B2A21&title_color=EFE6D8&text_color=EFE6D8"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=EFE6D8&title_color=6B1E2C&text_color=3B2A21" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruby4578/Ruby4578/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruby4578/Ruby4578/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ruby4578/Ruby4578/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-### ✦ Say hello
+## 🤝 Let's Connect
 
-Happy to talk shop or opportunities — I reply fast.
+<div align="center">
 
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-6B1E2C?style=for-the-badge&logo=gmail&logoColor=EFE6D8"/></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-7D2A35?style=for-the-badge&logo=linkedin&logoColor=EFE6D8"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-3B2A21?style=for-the-badge&logo=aboutdotme&logoColor=EFE6D8"/></a>
+<a href="https://www.linkedin.com/in/eshaal-abid/">
+<img src="https://img.shields.io/badge/LinkedIn-5A0F1B?style=for-the-badge&logo=linkedin&logoColor=F4E4C1" />
+</a>
+
+<a href="mailto:eshaal02304@gmail.com">
+<img src="https://img.shields.io/badge/Email-D61F3C?style=for-the-badge&logo=gmail&logoColor=F4E4C1" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*More social links coming soon...*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5A0F1B,35:8B1E2D,70:3B1F1A,100:5A0F1B&section=footer&animation=twinkling" width="100%"/>
+
+### <span style="color:#F4E4C1;">✨ Keep learning. Keep building. Keep exploring. ✨</span>
+
+**© 2026 eshaal**
+
+</div>
