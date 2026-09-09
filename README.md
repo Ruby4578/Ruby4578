@@ -57,19 +57,49 @@ I enjoy understanding how things work — from tiny implementation details to en
 
 ---
 
-## 🛠️ Languages & Technologies
+# 💻 Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark&perline=5" />
+### Frontend
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=5" />
+<br/><br/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase&theme=dark&perline=3"/>
+
+<br/><br/>
+
+### AI & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+
+  
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MediaPipe-5A0F1B?style=for-the-badge&logoColor=F4E4C1"/>
+<img src="https://img.shields.io/badge/Generative%20AI-D61F3C?style=for-the-badge&logoColor=F4E4C1"/>
+
+<br/><br/>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark&perline=3"/>
+
+<br/><br/>
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark&perline=4"/>
 
 </div>
 
-<br/>
 
 ---
 
