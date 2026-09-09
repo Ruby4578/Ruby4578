@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5A0F1B,35:8B1E2D,70:3B1F1A,100:5A0F1B&text=Hey%20there,%20I'm%20eshaal%20%E2%9C%A8&fontColor=F4E4C1&fontSize=44&fontAlignY=38&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Future%20Software%20Architect&descAlignY=58&descColor=F4E4C1&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5A0F1B,35:8B1E2D,70:3B1F1A,100:5A0F1B&text=Hello%20world,%20I'm%20eshaal%20%E2%9C%A8&fontColor=F4E4C1&fontSize=44&fontAlignY=38&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Future%20Software%20Architect&descAlignY=58&descColor=F4E4C1&descSize=17&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=D61F3C&center=true&vCenter=true&width=850&lines=Learning+Python+%E2%80%A2+Java+%E2%80%A2+JavaScript;Exploring+STEM+%26+Software+Architecture;Building+ideas+into+real+experiences;Always+learning.+Always+building.+Always+curious." />
 
