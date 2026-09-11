@@ -151,6 +151,8 @@ An interactive hand-controlled maze game where players navigate through levels u
 </a>
 
 </div>
+
+<br>
  🤖 RighiLab
 
 An AI-powered learning platform built for the *Campionati Italiani di Robotica 2025-2026*, where the theme was "learning through play." Users upload notes, a YouTube video, or just a topic, and a robot mascot turns the content into an interactive mini-lesson with games.
