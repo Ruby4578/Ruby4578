@@ -151,7 +151,28 @@ An interactive hand-controlled maze game where players navigate through levels u
 </a>
 
 </div>
+### 🤖 RighiLab
 
+An AI-powered learning platform built for the *Campionati Italiani di Robotica 2025-2026*, where the theme was "learning through play." Users upload notes, a YouTube video, or just a topic, and a robot mascot turns the content into an interactive mini-lesson with games.
+
+**Highlights**
+
+* 📤 Upload notes, videos, or just a topic
+* 🤖 Robot-guided content analysis
+* 🎮 Auto-generated interactive challenges
+* 🏆 Built for a national robotics competition
+* 👥 Team project — 7 students, Istituto Augusto Righi di Napoli
+* 🛠️ Back-end development
+
+<div align="center">
+
+<a href="https://righilab.vercel.app/">
+
+<img src="https://img.shields.io/badge/🤖%20Visit%20RighiLab-8B1E2D?style=for-the-badge&logoColor=F4E4C1" />
+
+</a>
+
+</div>
 ---
 
 # 📊 Some Stats
